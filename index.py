@@ -1,1 +1,1 @@
-print("Invalid Input")
+print("i am dist!!@#$")
